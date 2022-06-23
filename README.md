@@ -5,5 +5,5 @@
 
 
 
-Curriculo Bootstrap -> https://joaovitorboer.github.io/HTML-Css/CurriculoBootstrap/
+Curriculo Bootstrap -> https://joaovitorboer.github.io/HTML-Css/CurriculoBootstrap/ <br>
 Curriculo -> https://joaovitorboer.github.io/HTML-Css/Curriculo/
